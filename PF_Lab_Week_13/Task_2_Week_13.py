@@ -1,0 +1,15 @@
+d={1,2,3}
+d.add("Aman")
+d.add("Asad bhai")
+d.discard("Asad")
+d.discard("Ahmed")
+d.remove("Asad bhai")
+#d.remove("Ahmed")
+print(d)
+d.add("Asad bhai")
+print(d)
+d.pop()
+print(d)
+d.clear()
+print(d)
+
