@@ -1,2 +1,0 @@
-import Aman
-Aman.greet()
