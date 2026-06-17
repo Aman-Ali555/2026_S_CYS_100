@@ -1,0 +1,2 @@
+import Aman
+Aman.greet()
